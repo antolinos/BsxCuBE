@@ -183,8 +183,8 @@ class BiosaxsClient( CObjectBase ):
 
 
     def setUser( self, user, password, proposalType, proposalNumber ):
-        self.user = user #"mx1438"
-        self.password = password #"Rfo4-73"
+        self.user = user 
+        self.password = password 
         self.proposalType = proposalType
         self.proposalNumber = proposalNumber
 
